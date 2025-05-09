@@ -2,8 +2,8 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Darryl S.",
 	"dependencies": {
-		"express": "^4.14.0"
-		
+		"express": "^4.14.0",
+		"fcc-learn-npm-package-json": "file:"
 	},
 	"main": "server.js",
 	"scripts": {
